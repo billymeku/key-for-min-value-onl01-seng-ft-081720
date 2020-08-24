@@ -3,6 +3,7 @@
 
 def key_for_min_value(name_hash)
  name_hash.each do|key,value|
- key[1].length 
+ value[1].length < value.length[2]
+ key 
  end 
 end
